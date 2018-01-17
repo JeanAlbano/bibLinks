@@ -1,0 +1,9 @@
+.deletaLink, .editaLink{
+	margin-left: 4%;
+	padding: 1px 4px;
+	float: left;
+}
+
+select[name="categoria"]{
+	margin-top: 30px;
+}
