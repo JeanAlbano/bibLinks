@@ -7,3 +7,11 @@
 select[name="categoria"]{
 	margin-top: 30px;
 }
+
+.row{
+	margin-right: 0px;
+}
+
+.container{
+	margin-bottom: 40px;
+}
